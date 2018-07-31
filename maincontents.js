@@ -280,7 +280,7 @@ function OnJoystickControlled(strPara){
     if(btn_info[0] == '1'){
             window.external.ChangeLanguage("en-us");
             SetVolume(1);
-            window.external.PlaySpeech("Hi, my name is tracey, nice to meet you. Thank you for having me here at Novartis.");//I'm here to assist you, press any button on my screen to begin");
+            window.external.PlaySpeech("Hi Brenda, I'm Vonnie");//I'm here to assist you, press any button on my screen to begin");
           
     }
 
